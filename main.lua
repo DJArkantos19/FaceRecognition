@@ -1,3 +1,5 @@
+display.setStatusBar( display.HiddenStatusBar )
+
 --Creamos un cuadro (default blanco) 
 local cuadro1 = display.newRect(0, 0, display.contentWidth, 200)
  -- Creamos otro cuadro
