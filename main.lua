@@ -6,7 +6,6 @@ local background = display.newImageRect( "background.png", display.contentWidth,
 	background.x, background.y = 0, 0
 
 --Creamos un cuadro (default blanco) 
-local cuadro1 = display.newRect(0, 0, display.contentWidth, 200 )
 
  -- Creamos otro cuadro
 --cambiamos el color a verde
