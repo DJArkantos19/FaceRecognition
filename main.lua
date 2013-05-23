@@ -10,4 +10,6 @@ local cuadro2 = display.newRect(0, 200, display.contentWidth, display.contentHei
 cuadro2:setFillColor(0, 129, 0)
 
 local texto = display.newText("SMART Apps... BE SMART!!!", 80, 50,TimesNewRoman,39)
-texto:setTextColor(120,100,50)
+texto:setTextColor(0,0,250)
+
+local texto = display.newText("Pablo Rodriguez", 80, 450,TimesNewRoman,24)
