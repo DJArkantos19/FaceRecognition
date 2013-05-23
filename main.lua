@@ -1,12 +1,5 @@
 
-
-
-
-
 display.setStatusBar( display.HiddenStatusBar )
-local storyboard = require "storyboard"
-storyboard.gotoScene( "start" )
-
 
 local background = display.newImageRect( "background.png", display.contentWidth, display.contentHeight )
 	background:setReferencePoint( display.TopLeftReferencePoint )
