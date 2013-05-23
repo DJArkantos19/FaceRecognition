@@ -13,3 +13,4 @@ local texto = display.newText("SMART Apps... BE SMART!!!", 80, 50,TimesNewRoman,
 texto:setTextColor(0,0,250)
 
 local texto = display.newText("Pablo Rodriguez", 80, 450,TimesNewRoman,24)
+local texto = display.newText("El wilcho", 80, 200,TimesNewRoman,24)
